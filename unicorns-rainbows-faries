@@ -1,2 +1,10 @@
-There once was a lonley unicorn in the valley of rainbows
-the unicorn was very very lonely
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>React App</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+  </body>
+</html>
