@@ -6,6 +6,9 @@
   <body>
     <noscript>This poem is about faries, unicorns and rainbows.</noscript>
     <noscript>Something seems to be happening to the giant.</noscript>
+    <noscript
+      >The giant did not die. He is on Withness protection program.</noscript
+    >
     <div id="root"></div>
   </body>
 </html>
