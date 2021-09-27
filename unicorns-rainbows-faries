@@ -4,7 +4,7 @@
     <title>Unicorns App</title>
   </head>
   <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <noscript>This poem is about faries, unicorns and rainbows.</noscript>
     <div id="root"></div>
   </body>
 </html>
