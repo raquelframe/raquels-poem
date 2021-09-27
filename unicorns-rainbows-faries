@@ -5,6 +5,7 @@
   </head>
   <body>
     <noscript>This poem is about faries, unicorns and rainbows.</noscript>
+    <noscript>Something seems to be happening to the giant.</noscript>
     <div id="root"></div>
   </body>
 </html>
